@@ -88,6 +88,6 @@ export class FormChiamataComponent implements OnInit {
        console.log("note_pubbliche ", this.myForm.controls.note_pubbliche.value);
        console.log("note_private ", this.myForm.controls.note_private.value);
    // let formChiamataModel = new FormChiamataModel();
-   // this.listaPostService.aggiornaPost(post);
+   
   }
 }
